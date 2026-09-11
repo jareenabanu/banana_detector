@@ -141,9 +141,15 @@ http://localhost:5000
 
 **Result Page:** Displays the analysis results including banana detection, confidence, curvature and classification.
 
-![Screenshot3](screenshots/processed-image.png)
+
+<img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/54d0b2d4-b568-4312-a29a-4c87a4085780" />
+
 
 **Processed Image:** Shows the processed banana image generated after YOLO segmentation and curvature analysis.
+
+
+<img width="1920" height="1020" alt="3" src="https://github.com/user-attachments/assets/f0c130e5-cfb7-44bf-8f95-fb86b60077f7" />
+
 
 ## Diagrams
 
