@@ -139,7 +139,9 @@ http://localhost:5000
 
 **Upload Page:** Shows the BananaMath interface where users can upload or drag and drop a banana image.
 
-![Screenshot2](screenshots/result-page.png)
+
+<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/a11f68a4-b9fd-45f8-980b-53ede170975a" />
+
 
 **Result Page:** Displays the analysis results including banana detection, confidence, curvature and classification.
 
