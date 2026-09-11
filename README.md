@@ -14,7 +14,7 @@
 
 BananaMath is an AI-powered web application that detects bananas from uploaded images using YOLO segmentation. It analyzes the detected banana and calculates its curvature to provide a fun mathematical classification.
 
-## The Problem (that doesn't exist)
+## The Problem 
 
 Have you ever looked at a banana and wondered:
 
@@ -22,7 +22,7 @@ Have you ever looked at a banana and wondered:
 
 Probably not. But we decided this extremely important problem deserved an AI solution.
 
-## The Solution (that nobody asked for)
+## The Solution 
 
 BananaMath allows users to upload a banana image and automatically detects the banana using a YOLO segmentation model.
 
@@ -181,12 +181,12 @@ The demo video demonstrates uploading a new banana image, detecting the banana u
 
 * Developed the frontend interface using React and Vite
 * Worked on UI design and user experience
-* Worked on project documentation and presentation
 * Assisted with testing and deployment
 
 **Anand V R:**
 
 * Worked on YOLO-based banana detection and curvature analysis
 * Integrated the image upload and analysis workflow
+* Worked on project documentation and presentation
 * Worked on backend integration
 * Assisted with testing and validation
