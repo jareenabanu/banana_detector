@@ -175,7 +175,7 @@ http://localhost:5000
 
 The demo video demonstrates uploading a new banana image, detecting the banana using YOLO segmentation, calculating its curvature and displaying the final result.
 
-https://github.com/user-attachments/assets/0e842a13-fa34-4c90-b8c5-6b242ee38e3d
+
 
 ### Additional Demos
 
