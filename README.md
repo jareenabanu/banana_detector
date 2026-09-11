@@ -189,4 +189,3 @@ The demo video demonstrates uploading a new banana image, detecting the banana u
 * Integrated the image upload and analysis workflow
 * Worked on project documentation and presentation
 * Worked on backend integration
-* Assisted with testing and validation
