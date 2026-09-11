@@ -6,8 +6,9 @@
 
 ### Team Members
 
-**Team Lead:** Jareena Banu S. - Rajiv Gandhi Institute of Technology, Kottayam
-**Member 2:** Anand V R - Rajiv Gandhi Institute of Technology, Kottayam
+**Team Lead:** Anand V R. - Rajiv Gandhi Institute of Technology, Kottayam
+
+**Member 2:** Jareena Banu S. - Rajiv Gandhi Institute of Technology, Kottayam
 
 ## Project Description
 
