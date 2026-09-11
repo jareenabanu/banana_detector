@@ -133,10 +133,6 @@ http://localhost:5000
 
 ## Screenshots
 
-
-<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/323d13c1-2fa5-4624-9aa7-a7bbf42cee4c" />
-
-
 **Upload Page:** Shows the BananaMath interface where users can upload or drag and drop a banana image.
 
 
