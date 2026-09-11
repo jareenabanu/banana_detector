@@ -177,7 +177,7 @@ The demo video demonstrates uploading a new banana image, detecting the banana u
 
 ## Team Contributions
 
-**Jareena Banu S.:**
+**Jareena Banu S:**
 
 * Developed the frontend interface using React and Vite
 * Worked on UI design and user experience
